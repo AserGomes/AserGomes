@@ -6,18 +6,18 @@ Sou Aser Gomes, trabalho na area de dados a 4 anos e sou especializado com model
 
 - O que eu sei ?
 **Hard Skills**  
-Power BI
-Tableau
-SQL
-Python
-Excel
-Power Automate
-Power Apps
+> Power BI
+> Tableau
+> SQL
+> Python
+> Excel
+> Power Automate
+> Power Apps
 
 **Soft Skills**
-Gerenciamento de pessoas e projetos
-Capacidade de ensinar
-Boa Comunicação e oralidade
+> Gerenciamento de pessoas e projetos
+> Capacidade de ensinar
+> Boa Comunicação e oralidade
 
 - O que estou aprendendo ?
 Computação em nuvem, principalmente ETL no AWS.
