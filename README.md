@@ -4,7 +4,7 @@
 Sou Aser Gomes, trabalho na area de dados a 4 anos e sou especializado com modelagem de indicadores e visualização de dados.
 
 - O que eu sei ?
-       **Hard Skills**  
+->**Hard Skills**  
  -Power BITableauSQLPythonExcelPower AutomatePower Apps
   **Soft Skills**
 > Gerenciamento de pessoas e projetos
