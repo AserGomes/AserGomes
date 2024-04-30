@@ -1,13 +1,12 @@
 ### Hello there!
 🚧Esse repositório está em construção🚧
 
- - Quem sou eu ?
 Sou Aser Gomes, trabalho na area de dados a 4 anos e sou especializado com modelagem de indicadores e visualização de dados.
 
 - O que eu sei ?
- - **Hard Skills**  
+  **Hard Skills**  
  -Power BITableauSQLPythonExcelPower AutomatePower Apps
- - **Soft Skills**
+  **Soft Skills**
 > Gerenciamento de pessoas e projetos
 > Capacidade de ensinar
 > Boa Comunicação e oralidade
