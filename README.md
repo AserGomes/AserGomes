@@ -9,7 +9,10 @@ Sou Aser Gomes, trabalho na area de dados a 4 anos e sou especializado com model
   
 - **O que estou aprendendo:** Computação em nuvem, principalmente ETL no AWS.
 
-- **Algumas coisas legais que já fiz na minha carreira:** Requisitar uma API Rest via power BI por linguagem M, App de gestão de produção de Caixas de Cambio(Power BI), Criar meu banco de dados numa instância AWS EC2.
+- **Algumas coisas legais que já fiz na minha carreira:**  
+    -  Requisitar uma API Rest do Salesforce via power BI por linguagem M 
+    -  App de gerenciamento de expedição de peças (Power Apps)
+    -  Diversos Paineis no Power BI
 
 - Me encontre no linkedIn: **https://www.linkedin.com/in/asergomes/** ou no meu email: **gomariusaser@gmail.com**
 <!--
